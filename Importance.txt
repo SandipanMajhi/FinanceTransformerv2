@@ -1,0 +1,1 @@
+Characteristics -> 0 -> Score = 0.9519821405410767Characteristics -> 1 -> Score = 0.9519960284233093Characteristics -> 2 -> Score = 0.9519741535186768Characteristics -> 3 -> Score = 0.9519956111907959Characteristics -> 4 -> Score = 0.9522410035133362
